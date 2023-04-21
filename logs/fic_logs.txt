@@ -1,0 +1,62 @@
+Europe/Berlin
+Impossible d'établir la connexion à la BD.
+modele\service\exception\ExceptionService: Impossible d'établir la connexion à la BD. in C:\xampp\htdocs\Projet_PHP-MVC\PHP-MVC\modele\service\PersonneService.php:21
+Stack trace:
+#0 C:\xampp\htdocs\Projet_PHP-MVC\PHP-MVC\controleur\Controleur.php(58): modele\service\PersonneService->__construct()
+#1 {main}Europe/Berlin
+Connexion impossible 
+
+modele\service\exception\ExceptionService: Connexion impossible 
+ in C:\xampp\htdocs\PHP-MVC\modele\service\ConnectionService.php:34
+Stack trace:
+#0 C:\xampp\htdocs\PHP-MVC\controleur\Controleur.php(276): modele\service\ConnectionService->__construct()
+#1 {main}Europe/Berlin
+Connexion impossible 
+
+modele\service\exception\ExceptionService: Connexion impossible 
+ in C:\xampp\htdocs\PHP-MVC\modele\service\ConnectionService.php:34
+Stack trace:
+#0 C:\xampp\htdocs\PHP-MVC\controleur\Controleur.php(276): modele\service\ConnectionService->__construct()
+#1 {main}Europe/Berlin
+Connexion impossible 
+
+modele\service\exception\ExceptionService: Connexion impossible 
+ in C:\xampp\htdocs\PHP-MVC\modele\service\ConnectionService.php:34
+Stack trace:
+#0 C:\xampp\htdocs\PHP-MVC\controleur\Controleur.php(309): modele\service\ConnectionService->__construct()
+#1 {main}Europe/Berlin
+Connexion impossible 
+
+modele\service\exception\ExceptionService: Connexion impossible 
+ in C:\xampp\htdocs\PHP-MVC\modele\service\ConnectionService.php:34
+Stack trace:
+#0 C:\xampp\htdocs\PHP-MVC\controleur\Controleur.php(309): modele\service\ConnectionService->__construct()
+#1 {main}Europe/Berlin
+Connexion impossible 
+
+modele\service\exception\ExceptionService: Connexion impossible 
+ in C:\xampp\htdocs\PHP-MVC\modele\service\ConnectionService.php:34
+Stack trace:
+#0 C:\xampp\htdocs\PHP-MVC\controleur\Controleur.php(311): modele\service\ConnectionService->__construct()
+#1 {main}Europe/Berlin
+Connexion impossible 
+
+modele\service\exception\ExceptionService: Connexion impossible 
+ in C:\xampp\htdocs\PHP-MVC\modele\service\ConnectionService.php:34
+Stack trace:
+#0 C:\xampp\htdocs\PHP-MVC\controleur\Controleur.php(311): modele\service\ConnectionService->__construct()
+#1 {main}Europe/Berlin
+Connexion impossible 
+
+modele\service\exception\ExceptionService: Connexion impossible 
+ in C:\xampp\htdocs\PHP-MVC\modele\service\ConnectionService.php:34
+Stack trace:
+#0 C:\xampp\htdocs\PHP-MVC\controleur\Controleur.php(311): modele\service\ConnectionService->__construct()
+#1 {main}Europe/Berlin
+Connexion impossible 
+
+modele\service\exception\ExceptionService: Connexion impossible 
+ in C:\xampp\htdocs\PHP-MVC\modele\service\ConnectionService.php:34
+Stack trace:
+#0 C:\xampp\htdocs\PHP-MVC\controleur\Controleur.php(311): modele\service\ConnectionService->__construct()
+#1 {main}

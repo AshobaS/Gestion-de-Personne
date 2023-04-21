@@ -1,0 +1,94 @@
+@import url("reset.css");
+
+body
+{
+    height: 100vh;
+    width: 100%;
+    display:flex;
+    flex-direction: column;
+    /* background-color: red; */
+}
+
+form
+{
+    margin-block: auto;
+    
+}
+
+.main
+{
+    flex-grow: 1;
+    /* background-color: blue; */
+    background-color: rgb(205, 210, 210);
+    text-align: center;
+
+}
+
+h1, legend
+{
+    background-color: rgb(183, 187, 187);
+    text-align: center;
+    font: caption;
+    font-size:xx-large ;
+    border-bottom: 1px solid grey;
+}
+
+
+.deco
+{
+    font-size: small;
+}
+
+p
+{
+    text-align: center;
+    padding-top: 2em;
+    font-size: large;
+}
+
+table 
+{
+    border: 1px solid black;
+    table-layout: fixed;
+    flex-grow: 1;
+    margin-inline: auto;
+}
+th,td
+{
+    text-align: center;
+    width: 10em;
+    overflow: hidden;
+    padding-block: 1em;
+}
+
+thead
+{
+    border-bottom: 1px solid black;
+    text-transform: uppercase;
+    font-size: large;
+}
+
+.last
+{
+    padding-bottom: 4em;
+}
+
+.footer
+{
+    text-align: left;
+    padding-left : 1em;
+    font-size: small;
+    background-color: rgb(183, 187, 187);
+    border-top: 1px solid grey;
+    height : 2em;
+}
+
+.header
+{
+    height: 3em;
+}
+
+.lang
+{
+    font-size: small;
+}

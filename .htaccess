@@ -1,0 +1,12 @@
+Options -Indexes
+
+ErrorDocument 404 http://localhost:80/PHP-MVC/index.php
+ErrorDocument 403 http://localhost:80/PHP-MVC/index.php
+
+ServerSignature Off
+
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*)$ $1.php
+
