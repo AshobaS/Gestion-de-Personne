@@ -85,7 +85,7 @@ switch ($action)
         else 
         {
             // On cree une personne a partir des données du formulaire
-            $personne = remplir_personne(nettoyer($_POST));
+            $personne = remplir_personne(nettoyer($_POST['pass']));
             try 
             {
                 //On ajoute la personne à la base de données
